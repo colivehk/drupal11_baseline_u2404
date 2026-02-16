@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -Eeuo pipefail
 
-# drupal_installV7.5.4.sh
+# drupal_installV7.5.5.sh
 # Drupal 11.3.3 all-in-one installer for Ubuntu 24.04 (root installs system components,
 # www-data installs Drupal codebase + drush + site install).
 #
